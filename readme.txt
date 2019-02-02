@@ -1,0 +1,1 @@
+This is a spider framework with scrapy in python.
